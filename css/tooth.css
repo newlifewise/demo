@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+.text-color-1 {	color: #0a507f;  }
+.text-color-2 {	color: #2dcfff;  }
+.text-color-3 {	color: #37d1c4;  }
+
+.bg-deep-1 {  background-color: #0a507f;  }
+.bg-deep-2 {  background-color: #2dcfff;  }
+.bg-deep-3 {  background-color: #37d1c4;  }
+
+.mfp-bg {
+    background: #37d1c4;
+/*    opacity: 0.93;*/
+}
+
+.hover-option6 .grid-item .portfolio-icon a {
+	padding-top: 9px;
+}
